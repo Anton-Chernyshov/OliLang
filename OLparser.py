@@ -1,4 +1,4 @@
-from oliAst import NodeType, Statement, BinaryExpression
+from OLast import NodeType, Statement, BinaryExpression
 
 
 class Parser():

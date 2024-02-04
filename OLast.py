@@ -8,7 +8,7 @@ class Statement():
     kind: NodeType
     value: any
 class BinaryExpression():
-    kind:"BinExp"
+    kind: "BinExp"
     left: Statement
     right: Statement
     op: str

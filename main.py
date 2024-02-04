@@ -1,6 +1,5 @@
-
-from parser import Parser
-from oliAst import BinaryExpression, Statement
+from OLparser import Parser
+from OLast import BinaryExpression, Statement
 
 parser = Parser()
 
